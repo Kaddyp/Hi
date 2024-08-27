@@ -6,14 +6,7 @@
 I'm front-end developer (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql), 
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, PHP), design (working closely with designers).
 
-![Visitor Count](https://profile-counter.glitch.me/kaddyp/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy:</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kaddyp&column=7"/>
-  </a>
-</div>
 
 <div>
   <h4>Languages and Tools:</h4>
