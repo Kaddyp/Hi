@@ -30,3 +30,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .....
 
 -->
+
+<div>
+  <h4>Work:</h4>
+</div>
+
+1. https://github.com/Kaddyp/drawer_dashboard
+   
+![demo](https://github.com/Kaddyp/drawer_dashboard/blob/main/Video.gif) 
+
+2. https://github.com/Kaddyp/dashboard-layout/tree/main
+   
+![demo](https://github.com/Kaddyp/dashboard-layout/blob/main/Video.gif)
+
+
+
