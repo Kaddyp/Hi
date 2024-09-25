@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kalyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/himanshi-sharma-48236421b/](https://www.linkedin.com/in/kalyani-pawar-b99060b2/))](https://www.linkedin.com/in/kalyani-pawar-b99060b2/)
 
-I'm front-end developer (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql), 
+I'm a front-end developer (React, Redux, Typescript, Javascript, HTML5, CSS3, Bootstrap, SAAS, Tailwind, Material UI, Responsive, UX), database(Mysql), 
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, PHP), design (working closely with designers).
 
 
