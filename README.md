@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 1. https://github.com/Kaddyp/coffee-shop-dashboard
    
-![demo](https://github.com/Kaddyp/coffee-shop-dashboard/blob/main/Video1.gif) 
+![demo](https://github.com/Kaddyp/coffee-shop-dashboard/blob/main/Video3.gif) 
 
 2. https://github.com/Kaddyp/drawer_dashboard
    
