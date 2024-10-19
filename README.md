@@ -35,6 +35,10 @@ Here are some ideas to get you started:
   <h4>Work:</h4>
 </div>
 
+My NPM Package
+   
+![demo](https://github.com/Kaddyp/my_first_npm_package/blob/main/image-1.png) 
+
 1. https://github.com/Kaddyp/coffee-shop-dashboard
    
 ![demo](https://github.com/Kaddyp/coffee-shop-dashboard/blob/main/Video4.gif) 
