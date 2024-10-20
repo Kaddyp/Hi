@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 My NPM Package
+https://www.npmjs.com/package/ts-say-hello
    
 ![demo](https://github.com/Kaddyp/my_first_npm_package/blob/main/image-1.png) 
 
