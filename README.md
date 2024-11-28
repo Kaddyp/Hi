@@ -42,6 +42,7 @@ https://www.npmjs.com/package/ts-say-hello
 ![demo](https://github.com/Kaddyp/my_first_npm_package/blob/main/image-1.png) 
 
 1. https://github.com/Kaddyp/coffee-shop-dashboard
+2. http://coffeedash-s3.s3-website.eu-west-2.amazonaws.com
    
 ![demo](https://github.com/Kaddyp/coffee-shop-dashboard/blob/main/Video4.gif) 
 
