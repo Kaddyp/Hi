@@ -42,6 +42,7 @@ https://www.npmjs.com/package/ts-say-hello
 ![demo](https://github.com/Kaddyp/my_first_npm_package/blob/main/image-1.png) 
 
 1 https://github.com/Kaddyp/payment_gateway
+
   ![demo](https://github.com/Kaddyp/payment_gateway/blob/main/PYMENT.gif)   
 
 2. https://github.com/Kaddyp/coffee-shop-dashboard
