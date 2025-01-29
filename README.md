@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kalyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/himanshi-sharma-48236421b/](https://www.linkedin.com/in/kalyani-pawar-b99060b2/))](https://www.linkedin.com/in/kalyani-pawar-b99060b2/)
 
-I'm a front-end developer (React, Redux, Node, Express, Typescript, Javascript, REST API, HTML5, CSS3, Bootstrap, SAAS, Tailwind, Material UI, Responsive, UX), database(Mysql), 
+I'm a Full Stack developer (React, Redux, Node, Express, Kafka, Websocket, Typescript, Javascript, REST API, HTML5, CSS3, Bootstrap, SAAS, Tailwind, Material UI, Responsive, UX), database(Mysql), 
 I have a wide range of skills that include back-end development using open-source technologies (NodeJs, PHP), and design (working closely with designers).
 
 
@@ -43,10 +43,9 @@ https://www.npmjs.com/package/ts-say-hello
 
 1 https://github.com/Kaddyp/payment_gateway
 
-  ![demo](https://github.com/Kaddyp/payment_gateway/blob/main/PYMENT.gif)   
+![demo](https://github.com/Kaddyp/payment_gateway/blob/main/PYMENT.gif)   
 
 2. https://github.com/Kaddyp/coffee-shop-dashboard
-   http://coffeedash-s3.s3-website.eu-west-2.amazonaws.com
    
 ![demo](https://github.com/Kaddyp/coffee-shop-dashboard/blob/main/Video4.gif) 
 
