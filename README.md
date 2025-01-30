@@ -53,9 +53,9 @@ https://www.npmjs.com/package/ts-say-hello
    
 ![demo](https://github.com/Kaddyp/drawer_dashboard/blob/main/Video.gif) 
 
-4. https://github.com/Kaddyp/dashboard-layout/tree/main
+4. https://github.com/Kaddyp/continent_quest
    
-![demo](https://github.com/Kaddyp/dashboard-layout/blob/main/Video.gif)
+![demo](https://github.com/Kaddyp/continent_quest/blob/main/video.gif)
 
 
 
